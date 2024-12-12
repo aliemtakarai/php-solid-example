@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Order\\": "src/Order/",
+            "Logger\\": "src/Logger/",
+            "Payment\\": "src/Payment/",
+            "Notification\\": "src/Notification/",
+            "Processor\\": "src/Processor/"
+        }
+    }
+}
