@@ -26,7 +26,6 @@ This project demonstrates a clean and modular implementation of the **SOLID prin
   /Notification
     Notification.php            # Interface for notifications
     EmailNotification.php       # Email-based notifications
-    SMSNotification.php         # SMS-based notifications
   /Order
     Order.php                   # Represents an order
   /Logger
